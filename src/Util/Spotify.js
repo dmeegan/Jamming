@@ -1,4 +1,4 @@
-const clientId = 'd369fc9671f943339e6a0426e61d7261';
+const clientId = 'Removed_for_posting_on_public_repository';
 const redirectURI = 'My_Jammming_App.surge.sh';
 let userAccessToken = '';
 
